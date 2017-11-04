@@ -1,15 +1,15 @@
 # Pre Course Git Fu
 
 ## Terms for learning Git
- * Repository - 
- * Git - Version Control - 
- * Clone - 
- * Fork -
- * History -
- * Staging -
- * Remote - 
- * Commit -
- * Push -
+ * Repository - To store data that contains code, documents, and project files online, in order to manage the project easier, and keep track of changes over time.
+ * Git - Version Control - Tracking of file changes, for the purpose of source code management.
+ * Clone - A command or action used to copy a 'git repository' into a local machine.
+ * Fork - A copy of a repository, alows for development without directly affecting the source repository.
+ * History - A graph 'git commits' or 'snapshots' of the entire repository.
+ * Staging - Process done before commiting a file, usually after changing the file, it must be staged before it is commited.
+ * Remote - It is the URL of the location for the Git Project or Repository.
+ * Commit - Records changes that were made to the repository.
+ * Push - Updates the 'remote project' or repository with the changes that were 'commited' locally. Uploads the commited files to the online repository.
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
