@@ -2,7 +2,7 @@
 
 ## Terms for learning Git
  * Repository -a place where the history of your work is stored. It often lives in a .git subdirectory of your working copy
- * Git - Version Control - 
+ * Git - Version Control -a system to track changes and to help coordinate work among files among multiple people
  * Clone - a copy of a repository. it has its own history, manages its own files, and is a completely isolated environment from the original repository. this is usually kept on your local machine
  * Fork - a copy of a repository associated with your github account. this is the online copy
  * History - the commit history of a repo or branch of a repo
