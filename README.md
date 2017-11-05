@@ -1,7 +1,7 @@
 # Pre Course Git Fu
 
 ## Terms for learning Git
- * Repository - 
+ * Repository - Is a data structure used to save commits, changes, and version for Git. A place where your work history is saved. 
  * Git - is a revision control system that allows you to manage your source code history. You do not need GitHub to use Git on your computer. 
  Version Control - By keeping a history of the changes, you can go back to other working versions to fix bugs or other problems. 
   Allows us as developers to save a master copy of our project somewhere. It then allows everyone around the world working on that project to clone a version of that master copy utiliizing github. GitHub is a Git repository hosting service which offers distributed revision control. It allows developers to work off what is called a "remote". (see remote)
