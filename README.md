@@ -11,7 +11,7 @@
  * Staging - When a file has changed at this "remote", you can add the change to the staging area. This means you are ready to do somnething with that change. 
  * Remote - This is your personal copy on your machine that you are making changes on. This is on your computer. 
  * Commit - This records changes made to the repository
- * Push - updates references to this repository allowing you to push to a remote server so other people can have access to it. 
+ * Push - Allows you to publish your local commits. Updates references to this repository allowing you to push to a remote server so other people can have access to it. 
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
