@@ -9,7 +9,7 @@
  * Staging -
  * Remote - 
  * Commit -
- * Push -
+ * Push - 
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
