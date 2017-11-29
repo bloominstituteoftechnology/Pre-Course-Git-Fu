@@ -1,6 +1,6 @@
 # Pre Course Git Fu
 
-## Terms for learning Git
+## Terms for learning Git  (<-- This is known as Markdown Syntax. ## is for a header. Look up more of it once finished with this.)
  * Repository - The code found on GitHub
  * Git - Version Control - 
  * Clone - 
