@@ -1,15 +1,15 @@
 # Pre Course Git Fu
 
 ## Terms for learning Git
- * Repository - 
+ * Repository - A data structure used to store changes in projects or files over time. Stored alongside project it documents.
  * Git - Version Control - 
- * Clone - 
- * Fork -
- * History -
- * Staging -
- * Remote - 
- * Commit -
- * Push -
+ * Clone - Copy of reposity in a local directory
+ * Fork - A diverging copy of some repository at some point in time.
+ * History - A timeline of a repositorys commits
+ * Staging - Intermediate area for changes to project before commit to Github
+ * Remote - repositories @ locations other than local disks
+ * Commit - records changes to local repository
+ * Push - moves local commits to remote repository
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
