@@ -7,7 +7,7 @@
  * Fork -
  * History -
  * Staging -
- * Remote - 
+ * Remote - Local version of repository
  * Commit -
  * Push -
 
