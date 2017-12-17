@@ -8,8 +8,8 @@
  * History - A graph of snapshots, known as commits, of the entire repository.
  * Staging - Marking a modified file in it's current version to be added to the next commit.
  * Remote - Version of project that is hosted on the Internet or other network
- * Commit - 
- * Push -
+ * Commit - A snapshot or revision to a file made to the local repository that that is given a unique ID used to keep track of the changes.
+ * Push - Updates the remote repository with the changes made to the local repository.
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
