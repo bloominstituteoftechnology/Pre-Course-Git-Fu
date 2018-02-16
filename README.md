@@ -1,15 +1,15 @@
 # Pre Course Git Fu
 [Pre Class Video](https://youtu.be/ZihgMcrHOF4)
 ## Terms for learning Git
- * Repository - 
+ * Repository - A repository is a project's folder.
  * Git - Version Control - 
- * Clone - 
- * Fork -
- * History -
- * Staging -
- * Remote - 
- * Commit -
- * Push -
+ * Clone - A clone is a copy of a repository that lives on your computer instead of a website's server.
+ * Fork - A fork is your personal copy of another user's repository.
+ * History - History is a list of all the changes that have been made to a repository.
+ * Staging - To stage a file is to prepare it for a commit.
+ * Remote - Remote is the version of something that lives on a server versus say... your local computer.
+ * Commit - A commit is like a hard save of a file.
+ * Push - Push is your way to send your changes to a remote repository.
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
