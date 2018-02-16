@@ -1,5 +1,5 @@
 # Pre Course Git Fu
-
+[Pre Class Video](https://youtu.be/ZihgMcrHOF4)
 ## Terms for learning Git
  * Repository - 
  * Git - Version Control - 
