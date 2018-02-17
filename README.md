@@ -19,3 +19,4 @@
 5. `git status` to check what is staged
 6. `git commit -m 'made changes to the Readme'`
 7. `git push`
+Changes Have Been Made
