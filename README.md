@@ -9,7 +9,7 @@
  * Staging - Edits saved in you cloned respositories on your local machine that are waiting to be committed.
  * Remote - A copy of a cloned respository you have edited and saved and stored back into the cloud.
  * Commit - Are updates that record all changes that have been staged to the repository on your local machine. All commits get added to the history.
- * Push - Are fianl updates that record all changes done to the remote repository stored in the cloud. 
+ * Push - Are final updates that record all changes done to the remote repository stored in the cloug. 
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
