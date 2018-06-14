@@ -1,8 +1,8 @@
 # Pre Course Git Fu
-[Pre Class Video](https://youtu.be/ZihgMcrHOF4)
+
 ## Terms for learning Git
- * Repository - 
- * Git - Version Control - 
+ * Repository - A repository in my own words can be seen as a storage for folders and different types of files that facilitate a project
+ * Git - Version Control - The Git version control
  * Clone - 
  * Fork -
  * History -
@@ -11,7 +11,7 @@
  * Commit -
  * Push -
 
-## Steps to our Lamba School Git Flow
+## Steps to our Lambda School Git Flow
 1. Fork repository
 2. `git clone` w/ the repository URL 
 3. After Changes Made: `git status`
