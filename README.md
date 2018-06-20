@@ -7,7 +7,7 @@
  * Fork - A fork is a copy of a project repository that can be edited by the forker. The forker can submit a pull request to ask that their changes be added to the master project's repository.
  * History - Git history is a ledger of all changes, additions, deletions, comments, and commits that have occurred in the repository since its initial commit.
  * Staging - Files that are staged are files that have been changed and authorized for a commit into the current branch.
- * Remote - The address where you will be sending your git push. Remote addresses can be for different branches, so that you can develop one branch without affecting the master branch.
+ * Remote - The address where you will be sending your git push. You can use multiple remote addresses, so that you can develop on one repository (development) without affecting the master (production).
  * Commit - Signify that changes have been made, and a comment as to what those changes were. A commit is authorization to include any changes in the current branch of the repository.
  * Push - Upload the files and their changes, along with Git history and comments, to an external repository, often the "origin" repository hosted on GitHub.
 
