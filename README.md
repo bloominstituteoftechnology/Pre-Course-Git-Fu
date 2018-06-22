@@ -11,7 +11,7 @@
  * Commit - Signify that changes have been made, and a comment as to what those changes were. A commit is authorization to include any changes in the current branch of the repository.
  * Push - Upload the files and their changes, along with Git history and comments, to an external repository, often the "origin" repository hosted on GitHub.
 
-## Steps to our Lambda School Git Flow
+## Steps to Our Lambda School Git Flow
 1. Fork repository
 2. `git clone` w/ the repository URL 
 3. After Changes Made: `git status`
