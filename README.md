@@ -4,9 +4,9 @@
  * Repository - stores all project files
  * Git - Version Control - monitors changes within files
  * Clone - copies repository to local machine
- * Fork - creates your own copy of a repository 
+ * Fork - creates your own copy of a repository
  * History - list of commits
- * Staging - marks commits within file as ready to push
+ * Staging - marks commits within file as ready to commit
  * Remote - repository that is on a server rather than local
  * Commit - changes within a file that can be tracked
  * Push - submit changes to remote repository
