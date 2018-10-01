@@ -6,8 +6,8 @@
  * Clone - To duplicate a project.
  * Fork - To make a separate branch of a project, resulting in cloning and then rebranching.
  * History - The changes made to files, including the deletion of files.
- * Staging -
- * Remote - 
+ * Staging - Preparing a file that will be committed.
+ * Remote - Content that isn't on a local branch/computer/server.
  * Commit - Commits the changes to the files to the file on the VCS.
  * Push - Pushes the changes to the selected branch.
 
