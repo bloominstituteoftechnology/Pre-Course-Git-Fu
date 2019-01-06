@@ -3,13 +3,13 @@
 ## Terms for learning Git
  * Repository - 
  * Git - Version Control - 
- * Clone - 
- * Fork -
- * History -
- * Staging -
- * Remote - 
- * Commit -
- * Push -
+ * Clone - Copy of a repo to a local.  
+ * Fork - Copy of a repo to another git account.
+ * History - A trail of what has happened to a Repo. 
+ * Staging - Preping a changed clone to to be commited.
+ * Remote - Refering to the copy of a cloned Repo.
+ * Commit - Preping a clone to be pushed.
+ * Push - The action of uploading a changed clone to the master repo.
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
