@@ -1,7 +1,7 @@
 # Pre Course Git Fu
 [Pre Class Video](https://youtu.be/ZihgMcrHOF4)
 ## Terms for learning Git
- * Repository - 
+ * Repository - A space to store and recive files. 
  * Git - Version Control - Developers can save and clone work from a remote space. Developers can also track changes of files.
  * Clone - Copy of a repo to a local.  
  * Fork - Copy of a repo to another git account.
