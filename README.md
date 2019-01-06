@@ -6,7 +6,7 @@
  * Clone - Copy of a repo to a local.  
  * Fork - Copy of a repo to another git account.
  * History - A trail of what has happened to a Repo. 
- * Staging - adding a changed clone to to be commited.
+ * Staging - Adding a changed clone to to be commited.
  * Remote - A Copy of local files that can track changes.
  * Commit - Preping a clone to be pushed with a comment.
  * Push - The action of uploading a changed clone to a remote repo.
